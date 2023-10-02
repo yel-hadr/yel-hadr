@@ -1,6 +1,5 @@
 ### Hi there 👋, my name is Arturs
-#### I am GitHub Readme Generator's creator
-![I am GitHub Readme Generator's creator](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
+#### I am GitHub Readme Generator's creato
 
 🎓 Student at 1337 School of Coding.
 🚀 Full-stack developer with a passion for creating innovative solutions.
