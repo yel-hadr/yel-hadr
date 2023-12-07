@@ -12,7 +12,7 @@ Skills: C / C++
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/yel-hadr)
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='linkedin' height='40'>]([https://github.com/yel-hadr](https://www.linkedin.com/in/youssef-el-hadraoui-a5516626a/))  
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>]([https://github.com/yel-hadr](https://www.linkedin.com/in/youssef-el-hadraoui-a5516626a/))  
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=yel-hadr&show_icons=true)  
 
