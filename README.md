@@ -70,9 +70,13 @@
   <img src="https://github-readme-stats.vercel.app/api?username=yel-hadr&show_icons=true" alt="GitHub stats"/>
 </p>
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=yel-hadr" alt="GitHub streak stats"/>
-</p>
+<!--visits-->   
+<div align="center">
+<br><p align="centre"><b>Visitors Count </b></p>  
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/{Vhelaa1}/count.svg" /></p> 
+<br>
+</div>
+
 
 <p align="center">
   <a href="https://github.com/oakoudad/badge42"><img src="https://badge.mediaplus.ma/levi/yel-hadr" alt="yel-hadr's 42 stats"/></a>
