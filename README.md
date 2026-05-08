@@ -56,14 +56,6 @@ const youssef = {
 
 ### GitHub Stats
 
-<div align="center">
- <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yel-hadr&theme=tokyonight" width="100%" alt="Profile Details"/>
-</div>
-<div align="center">
- <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=yel-hadr&theme=tokyonight" alt="Stats" height="150"/>
- <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=yel-hadr&theme=tokyonight" alt="Top Languages" height="150"/>
- <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=yel-hadr&theme=tokyonight&utcOffset=1" alt="Productive Time" height="150"/>
-</div>
 
 <div align="center">
  <img src="https://github-readme-activity-graph.vercel.app/graph?username=yel-hadr&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Graph" width="100%"/>
