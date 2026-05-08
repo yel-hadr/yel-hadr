@@ -10,11 +10,11 @@
 
 ```typescript
 const youssef = {
-  location:   "Morocco 🇲🇦",
-  school:     "42 Network",
-  passions:   ["systems programming", "web development", "DevOps"],
-  currentFocus: "Building full-stack apps & deepening low-level skills",
-  funFact:    "I debug in C before breakfast ☕",
+ location: "Morocco",
+ school: "42 Network",
+ passions: ["systems programming", "web development", "DevOps"],
+ currentFocus: "Building full-stack apps & deepening low-level skills",
+ funFact: "I debug in C before breakfast",
 };
 ```
 
@@ -57,16 +57,20 @@ const youssef = {
 ### GitHub Stats
 
 <div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=yel-hadr&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&cache_seconds=86400" alt="GitHub Stats"/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yel-hadr&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&cache_seconds=86400" alt="Top Languages"/>
+ <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yel-hadr&theme=tokyonight" width="100%" alt="Profile Details"/>
+</div>
+<div align="center">
+ <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=yel-hadr&theme=tokyonight" alt="Stats" height="150"/>
+ <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=yel-hadr&theme=tokyonight" alt="Top Languages" height="150"/>
+ <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=yel-hadr&theme=tokyonight&utcOffset=1" alt="Productive Time" height="150"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=yel-hadr&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Graph" width="100%"/>
+ <img src="https://github-readme-activity-graph.vercel.app/graph?username=yel-hadr&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Graph" width="100%"/>
 </div>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=yel-hadr&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+ <img src="https://streak-stats.demolab.com?user=yel-hadr&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
 </div>
 
 ---
@@ -74,9 +78,9 @@ const youssef = {
 ### 42 Network Progress
 
 <div align="center">
-  <a href="https://github.com/oakoudad/badge42">
-    <img src="https://badge.mediaplus.ma/levi/yel-hadr" alt="yel-hadr's 42 stats"/>
-  </a>
+ <a href="https://github.com/oakoudad/badge42">
+ <img src="https://badge.mediaplus.ma/levi/yel-hadr" alt="yel-hadr's 42 stats"/>
+ </a>
 </div>
 
 ---
@@ -84,7 +88,7 @@ const youssef = {
 ### Contribution Activity
 
 <div align="center">
-  <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake Animation"/>
+ <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake Animation"/>
 </div>
 
 ---
@@ -101,8 +105,9 @@ const youssef = {
 ---
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=yel-hadr&style=for-the-badge&color=2c5364&label=PROFILE+VIEWS" alt="Visitor Count"/>
+ <img src="https://komarev.com/ghpvc/?username=yel-hadr&style=for-the-badge&color=2c5364&label=PROFILE+VIEWS" alt="Visitor Count"/>
 </div>
+
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=120&section=footer" width="100%"/>
+ <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=120&section=footer" width="100%"/>
 </div>
